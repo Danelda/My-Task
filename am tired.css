@@ -1,0 +1,54 @@
+body{
+    background-image: linear-gradient(to right, rgb(7, 195, 35), rgb(11, 188, 219))
+}
+
+.container{
+    width: 900px;
+    margin: 50px auto;
+    height: 600px;
+    background-color: white;
+    padding: 50px;
+    text-align: center;
+}
+
+.two{
+    position: absolute;
+    top: 160px;
+}
+
+.one{
+    position: absolute;
+    top: 160px;
+
+}
+
+.three{
+    width: 800px;
+    position: absolute;
+    right: 510px;
+}
+.be{
+    height: 30px;
+    width: 300px;
+    
+}
+.go{
+    height: 30px;
+    width: 300px;
+}
+
+.come{
+    width: 630px;
+    height: 25px;
+}
+
+.here{
+    padding: 90px;
+    width: 450px;
+}
+
+.four{
+    position: absolute;
+    right: 892px;
+
+}
